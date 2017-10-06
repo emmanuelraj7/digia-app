@@ -1,0 +1,204 @@
+
+.navbar.main{
+  height: 120px;
+  background: #9ea7b1;
+  margin-bottom: 0px;
+  margin: 0 auto;
+  width: 1012px;
+
+}
+
+.App {
+  background-color: whitesmoke;
+  height: 2300px;
+  margin: 0 auto;
+  width: 1012px;
+}
+
+
+.logo{
+  margin-left: 22px;
+  margin-top: 32px;
+  height: 48px;
+}
+
+
+.wrapper {
+text-align: center;
+}
+
+.heading{
+  text-align: left;
+  margin-top: 40px;
+  font-size: 25px;
+  color: #757575;
+  font-weight: 400;
+}
+
+.inner-wrapper {
+  width: 912px;
+  height: 20px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+#inputform {
+  width: 912px;
+  height: 72px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.form {
+  float: left;
+}
+
+#fullname-input {
+  margin-left: 16px;
+  margin-top: 16px;
+  height: 40px;
+ 
+}
+
+#email-input {
+  height: 40px;
+  margin-left: 20px;
+}
+
+
+#phone-number-input {
+  height: 40px;
+  margin-left: 20px;
+}
+
+#add-new {
+  background-color: #07f;
+  color: #ffffff;
+  height: 40px;
+  margin-left: 80px;
+  border-color: #07f;
+  width: 120px;
+}
+
+#cancelbutton {
+  background-color: #f2f2f2;
+  display: none;
+  width: 80px;
+  height: 40px;
+  color: #07f;
+  border-color: #f2f2f2;
+  font-weight: bold;
+}
+
+#savebutton {
+  background-color: #07f;
+  border-color: #07f;
+  display: none;
+  width: 80px;
+  height: 40px;
+  
+  color: white;
+}
+
+
+.info-wrapper {
+  width: 912px;
+  height: 48px;
+  background-color:whitesmoke;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.info-name {
+  float: left;
+  font-size: 15px;
+  color: #757575;
+  font-weight: 500;
+  margin-left: 24px;
+}
+
+
+.info-email {
+  float: left;
+  font-size: 15px;
+  color: #757575;
+  font-weight: 400;
+  margin-left: 200px;
+}
+
+.info-phoneno {
+  float: left;
+  font-size: 15px;
+  color: #757575;
+  font-weight: 400;
+  margin-left: 200px;
+}
+
+
+.table-heading {
+  width: 912px;
+  background-color:white;
+  height: 48px;
+  color: #757575;
+  
+}
+
+
+.table-heading-font {
+  padding: 24px;
+  font-weight: 500; 
+}
+
+.tablecell-font {
+  background-color:white;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #505050;
+  padding: 24px;
+}
+
+.inline-edit-1 {
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding-left: 5px;
+  width: 200px;
+}
+
+.inline-edit-2 {
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding-left: 5px;
+}
+
+.inline-edit-3 {
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding-left: 5px;
+  width: 110px;
+}
+
+
+table {
+    width: 912px;
+    
+}
+
+tr {
+  width: 912px;
+  background-color:lightgrey;
+  height: 72px;  
+  border: 1px solid lightgray;
+}
+
+
+
+
+td {
+ margin-left: 30px;
+ text-align: left;
+ 
+}
+
+
